@@ -1,3 +1,24 @@
+body {
+    background-color:#f5e4c3 ;
+}
+
+h1 {
+    background-color: #f7f48b;
+}
+
+h2 {
+    color:#4592af ;
+}
+
+.span {
+    color: #226089;
+}
+
+.text-02{
+    color: #213458;
+}
+
+
 .text {
     margin: 0;
 }
